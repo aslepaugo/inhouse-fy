@@ -2,3 +2,6 @@
 _pycache_/
 *.pyc
 *.sqlite3
+
+spoty_controller/frontend/node_modules/
+
