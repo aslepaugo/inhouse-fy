@@ -5,3 +5,5 @@ _pycache_/
 
 spoty_controller/frontend/node_modules/
 
+.vscode/
+
